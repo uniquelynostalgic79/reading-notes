@@ -7,7 +7,7 @@ Lab 01b learning markdown
 ## Hi my name is **Tonya Smith** and welcome to my page ##
 
 Greetings, I am an adopted Washingtonian originally from a small rural town in Kentucky
-I am a Veteran of thge US Army I have deployed to Iraq and Korea while I was in service
+I am a Veteran of the US Army I have deployed to Iraq and Korea while I was in service
 I am a mother of 3, all grown these days. I love to learn and I think anything is possible.
   
   
