@@ -26,10 +26,10 @@
 
 ### 3 Ways to Keep a Good Growth Mindset
 
- ####  - Practice Practice Practice 
+   - Practice Practice Practice 
  
- ####  - Remember mistakes are learning experiences
+   - Remember mistakes are learning experiences
  
- ####  - Everyone starts at the bottom and the only way is up.
+   - Everyone starts at the bottom and the only way is up.
  
  Link to my Github profile https://github.com/uniquelynostalgic79
